@@ -1,0 +1,3 @@
+Type,Capacity,Fixed cost,Travel speed (knots),Fuel consumption (L/NM),Fixed service(hour),Variable service rate(hour per unit),Fleet size,Travel cost,Waiting cost at the base,Waiting cost at the facilities,Service cost at the base,Service cost at the facilities
+0,850,120000,10,54,21,0,1,2400,320,120000,320,1200
+1,213,50000,20,40,10,0,1,2400,320,1200,320,1200
